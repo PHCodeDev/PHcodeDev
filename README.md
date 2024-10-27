@@ -21,7 +21,8 @@
 ### 📌 Repositórios Fixados:
 
 ### [Portfolio](https://github.com/PHCodeDev/Portfolio)
-Este é o meu portfólio de desenvolvimento web, onde apresento minhas habilidades, projetos e experiência na área. Foi desenvolvido com as tecnologias mais modernas, como **React**, **TailwindCSS** e **Vite**, para garantir desempenho e responsividade.
+Este é o meu portfólio de desenvolvimento web, onde apresento minhas habilidades, projetos e experiência na área. Foi desenvolvido com as tecnologias mais modernas, como **React**, **TailwindCSS** e **Vite**, para garantir desempenho e responsividade.<br/>
+https://portfolio-gamma-ten-51.vercel.app/habilidades
 
 <img height="150" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PHCodeDev&repo=Portfolio&theme=default&bg_color=0D1117&title_color=ffffff&icon_color=38BDF8&text_color=ffffff" />
 
@@ -29,6 +30,7 @@ Este é o meu portfólio de desenvolvimento web, onde apresento minhas habilidad
 
 ### [Syrion](https://github.com/PHCodeDev/syrion)
 Syrion é um projeto de landing page com foco em conversão, desenvolvido para empresas que buscam expandir suas vendas online. Utiliza **React** e **TailwindCSS** para uma interface moderna e eficiente.
+<br/>https://syrion.com.br/
 
 <img height="150" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PHCodeDev&repo=syrion&theme=default&bg_color=0D1117&title_color=ffffff&icon_color=38BDF8&text_color=ffffff" />
 
